@@ -1,0 +1,39 @@
+2026-10-11 18:02:17,006 | INFO | Inventory processing completed successfully.
+2026-10-11 18:14:32,085 | ERROR | Inventory processing failed.
+Traceback (most recent call last):
+  File "C:\Users\sahh\OneDrive - Cisco\Desktop\InventoryMonitoringSystem\main.py", line 15, in main
+    df = load_inventory("inventory.csv")
+  File "C:\Users\sahh\OneDrive - Cisco\Desktop\InventoryMonitoringSystem\file_handler.py", line 85, in load_inventory
+    raise ValueError(
+        f"{column} cannot contain negative values."
+    )
+ValueError: quantity cannot contain negative values.
+2026-10-11 18:20:30,295 | ERROR | Inventory processing failed.
+Traceback (most recent call last):
+  File "C:\Users\sahh\OneDrive - Cisco\Desktop\InventoryMonitoringSystem\main.py", line 15, in main
+    df = load_inventory("inventory.csv")
+  File "C:\Users\sahh\OneDrive - Cisco\Desktop\InventoryMonitoringSystem\file_handler.py", line 85, in load_inventory
+    raise ValueError(
+        f"{column} cannot contain negative values."
+    )
+ValueError: quantity cannot contain negative values.
+2026-10-11 18:36:18,222 | ERROR | Inventory processing failed.
+Traceback (most recent call last):
+  File "C:\Users\sahh\OneDrive - Cisco\Desktop\InventoryMonitoringSystem\main.py", line 15, in main
+    df = load_inventory("inventory.csv")
+  File "C:\Users\sahh\OneDrive - Cisco\Desktop\InventoryMonitoringSystem\file_handler.py", line 85, in load_inventory
+    raise ValueError(
+        f"{column} cannot contain negative values."
+    )
+ValueError: quantity cannot contain negative values.
+2026-10-11 18:38:42,789 | ERROR | Inventory processing failed.
+Traceback (most recent call last):
+  File "C:\Users\sahh\OneDrive - Cisco\Desktop\InventoryMonitoringSystem\main.py", line 15, in main
+    df = load_inventory("inventory.csv")
+  File "C:\Users\sahh\OneDrive - Cisco\Desktop\InventoryMonitoringSystem\file_handler.py", line 85, in load_inventory
+    raise ValueError(
+        f"{column} cannot contain negative values."
+    )
+ValueError: quantity cannot contain negative values.
+2026-10-11 18:39:24,665 | INFO | Inventory processing completed successfully.
+2026-10-11 18:40:52,718 | INFO | Inventory processing completed successfully.

@@ -1,0 +1,6 @@
+product_id,name,category,quantity,reorder_level,unit_price
+P101,Laptop,Electronics,8,10,45000
+P102,Mouse,Accessories,35,15,500
+P103,Keyboard,Accessories,4,10,1200
+P104,Monitor,Electronics,0,5,12000
+P105,Office Chair,Furniture,12,5,6000
